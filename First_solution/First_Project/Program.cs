@@ -11,7 +11,7 @@ namespace First_Project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("what up my Brother?!");
+            Console.WriteLine("what up my brother?!");
         }
     }
 }
